@@ -1,0 +1,5 @@
+-- TODO: github-workflow: Haskell-CI Bench
+-- TODO: github-job-name: Haskell-CI Linux - Bench - GHC ${{ matrix.ghc }}
+branches:    master
+haddock:     False
+cabal-check: False
